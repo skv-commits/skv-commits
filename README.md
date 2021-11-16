@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on __Open Source Projects__
 
-- 🌱 I’m currently Learning on __Golang__
+- 🌱 I’m currently Learning  __Golang__
 
 - 💬 Ask me about JavaScript, React , NodeJS , GraphQL, AWS , Golang 
 
