@@ -1,6 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Sai Krishna </h1>
 <h3 align="center"> Full-Stack Developer</h3>
 
+
 <p align="left"> <a href="https://twitter.com/indiasaiv" target="blank"><img src="https://img.shields.io/twitter/follow/indiasaiv?logo=twitter&style=for-the-badge" alt="indiasaiv" /></a> </p>
 
 - 🔭 I’m currently working on __React, NodeJS, GraphQL, AWS__ 
@@ -12,6 +13,8 @@
 - 💬 Ask me about JavaScript, React , NodeJS , GraphQL, AWS , Golang 
 
 - ⚡ Fun fact __its never late to start coding__
+
+<a href="https://app.daily.dev/krishnasai952"><img src="https://api.daily.dev/devcards/fb021a0184d144a686ed59e3e41d8189.png?r=i2c" width="400" alt="SAI KRISHNA VURUGONDA's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,3 +51,5 @@
 	<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" /> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" /> </a>
 </p>
+
+
