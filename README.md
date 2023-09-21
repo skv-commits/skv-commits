@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/indiasaiv" target="blank"><img src="https://img.shields.io/twitter/follow/indiasaiv?logo=twitter&style=for-the-badge" alt="indiasaiv" /></a> </p>
 
-- 🔭 I’m currently working on __React, NodeJS, Python , Go , GraphQL, AWS__ 
+- 🔭 I’m currently working on React, NodeJS, Python , __Go , GraphQL, AWS__ 
 
 - 👯 I’m looking to collaborate on __Open Source Projects__
 
